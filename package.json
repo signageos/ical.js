@@ -2,6 +2,7 @@
   "name": "ical",
   "version": "0.8.0",
   "main": "index.js",
+  "browser": "browser.js",
   "description": "A tolerant, minimal icalendar parser",
   "keywords": [
     "ical",
